@@ -1,7 +1,7 @@
 # Genetic Algorithms
 **Personal Learning/Exploration Project**
 
-This repository contains my own **implementations** of various genetic algorithm selection methods in `Java`, including:
+This repository contains my personal **implementations** of various genetic algorithm selection methods in `Java`, including:
 - **Ordered Crossover**
 - **Partially Mapped Crossover**
 - **Stochastic Universal Sampling**
